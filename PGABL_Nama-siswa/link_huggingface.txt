@@ -1,6 +1,0 @@
-# HuggingFace Model Repository
-# Ganti <username> dengan username HuggingFace Anda, dan <model-name> dengan nama model yang Anda pilih
-# Contoh:
-# https://huggingface.co/username/model-name
-
-https://huggingface.co/

@@ -1,0 +1,5 @@
+# HuggingFace Model Repository
+# Model hasil fine-tuning Qwen2.5-7B-Instruct pada dataset Alpaca GPT-4 Indonesian
+# Fine-tuning menggunakan QLoRA 4-bit + Unsloth + SFTTrainer
+
+https://huggingface.co/RayhanLup1n/qwen2.5-7b-indonesian-legal-finetuned
